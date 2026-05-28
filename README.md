@@ -5,7 +5,7 @@
 - 💡 I’m currently working on: Multi-vPLC single-port integration with EtherCAT
 - 👯 I’m looking to collaborate on: PLC and RT-embedded projects 🕛
 - 📫 How to reach me: see website or message ✉️ here
-- 🏢 Previously worked: artificial snow ❄️, renewable energy 🍃
+- 🏢 Previously worked: [artificial snow](https://www.technoalpin.com) ❄️, [renewable energy](https://www.bts-biogas.com) 🍃
 - 🔬 Previous research: UC Berkeley 🏛️, University of Bologna 🏬
 - ⚡ Fun fact: active 🚑 volunteer for more than a decade
 
