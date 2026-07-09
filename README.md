@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on: PLC and RT-embedded projects 🕛
 - 📫 How to reach me: see website or message ✉️ here
 - 🏢 Previously worked: [artificial snow](https://www.technoalpin.com) ❄️, [renewable energy](https://www.bts-biogas.com) 🍃
-- 🔬 Previous research: UC Berkeley 🏛️, University of Bologna 🏬
+- 🔬 Previous research: [UC Berkeley](https://eecs.berkeley.edu) 🏛️, [University of Bologna](https://disi.unibo.it/) 🏬
 - ⚡ Fun fact: active 🚑 volunteer for more than a decade
 
 
