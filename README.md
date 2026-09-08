@@ -12,3 +12,11 @@
 
 <!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/flhofer?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 -->
+<br/>
+
+[<img  align="left"
+        src="https://github.com/flhofer/flhofer/blob/main/images/coffee.png"
+        width=100px
+        title="My Image"
+        alt="Buy me a ☕?"
+    />](https://www.paypal.com/donate/?hosted_button_id=7X35TPY8WY5UJ) Interrested in my work? Want to support me? Buy me a ☕?
